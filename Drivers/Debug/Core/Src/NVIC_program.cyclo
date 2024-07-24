@@ -1,0 +1,7 @@
+../Core/Src/NVIC_program.c:14:6:NVIC_voidEnableInterrupt	3
+../Core/Src/NVIC_program.c:31:6:NVIC_voidDisableInterrupt	3
+../Core/Src/NVIC_program.c:48:6:NVIC_voidSetPendingFlag	3
+../Core/Src/NVIC_program.c:65:6:NVIC_voidClearPendingFlag	3
+../Core/Src/NVIC_program.c:82:4:NVIC_voidGetActiveFlag	3
+../Core/Src/NVIC_program.c:101:6:NVIC_voidSetPriority	2
+../Core/Src/NVIC_program.c:111:6:NVIC_Init	1

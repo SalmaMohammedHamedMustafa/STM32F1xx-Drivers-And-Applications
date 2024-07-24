@@ -1,0 +1,2 @@
+../Core/Src/Switch_Program.c:14:6:SWITCH_voidInit	16	static
+../Core/Src/Switch_Program.c:24:4:SWITCH_u8GetValue	16	static

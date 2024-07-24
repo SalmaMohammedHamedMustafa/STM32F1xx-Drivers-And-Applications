@@ -1,0 +1,8 @@
+../Core/Src/Lcd_Program.c:16:6:LCD_voidSendCommand	1
+../Core/Src/Lcd_Program.c:33:6:LCD_voidSendData	1
+../Core/Src/Lcd_Program.c:51:6:LCD_voidInit	1
+../Core/Src/Lcd_Program.c:96:6:LCD_voidSendString	2
+../Core/Src/Lcd_Program.c:107:6:LCD_voidSetPos	3
+../Core/Src/Lcd_Program.c:121:6:LCD_voidSpecialCharacter	2
+../Core/Src/Lcd_Program.c:136:6:LCD_voidClear	1
+../Core/Src/Lcd_Program.c:142:6:LCD_voidSendNumber	4

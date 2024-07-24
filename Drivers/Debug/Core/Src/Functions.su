@@ -1,0 +1,5 @@
+../Core/Src/Functions.c:10:6:reverse	24	static
+../Core/Src/Functions.c:23:5:int_to_string	24	static
+../Core/Src/Functions.c:61:8:power	40	static
+../Core/Src/Functions.c:79:5:LOG	56	static
+../Core/Src/Functions.c:107:6:delay	24	static,ignoring_inline_asm
