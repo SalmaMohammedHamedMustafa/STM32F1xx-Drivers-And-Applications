@@ -1,8 +1,0 @@
-../Core/Src/Lcd_Program.c:16:6:LCD_voidSendCommand	16	static
-../Core/Src/Lcd_Program.c:33:6:LCD_voidSendData	16	static
-../Core/Src/Lcd_Program.c:51:6:LCD_voidInit	8	static
-../Core/Src/Lcd_Program.c:96:6:LCD_voidSendString	24	static
-../Core/Src/Lcd_Program.c:107:6:LCD_voidSetPos	24	static
-../Core/Src/Lcd_Program.c:121:6:LCD_voidSpecialCharacter	24	static
-../Core/Src/Lcd_Program.c:136:6:LCD_voidClear	8	static
-../Core/Src/Lcd_Program.c:142:6:LCD_voidSendNumber	48	static

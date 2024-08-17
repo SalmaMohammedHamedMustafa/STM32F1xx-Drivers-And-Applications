@@ -1,3 +1,0 @@
-../Core/Src/OS_program.c:17:6:OS_voidCreateTask	16	static
-../Core/Src/OS_program.c:23:6:Scheduler	16	static
-../Core/Src/OS_program.c:37:6:OS_voidStart	8	static
